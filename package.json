@@ -1,6 +1,6 @@
 {
   "name": "xazure-builder-builder",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Xazure builder config for 'builder' type packages.",
   "main": "dist/index.js",
   "author": "Christian Snodgrass <christian.snodgrass.open@gmail.com> (http://xazure.net)",
